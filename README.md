@@ -878,9 +878,8 @@ function fib(n) {
 document.write(fib(10));
 ```
 
-### 7. 流程图
 
-#### 示例
+
 
 
 
